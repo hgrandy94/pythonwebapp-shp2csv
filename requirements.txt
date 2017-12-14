@@ -1,0 +1,5 @@
+azure-mgmt-resource
+azure-mgmt-datalake-store
+azure-datalake-store
+gdal==1.11.4
+pyodbc
